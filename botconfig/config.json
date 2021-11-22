@@ -1,0 +1,31 @@
+{
+   "token": "ODgyMDY5Mzk0NzA3MDc5MTg5.YS2BIw.stUe9Lb3Rlvnq7CVXo7ZWtEVO6A",
+   "prefix": "?",
+   "ownerIDS": [
+      "670196742167199745"
+   ],
+   
+   "status": {
+      "text": "{guildcount} Servers!",
+      "text2": "{membercount} Members!",
+      "type": "PLAYING",
+      "url": "https://discord.gg/gC8Hn8wT"
+   },
+
+
+
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "lavalinknl.ml",
+            "port": 2333,
+            "password": "Raccoon"
+         }
+      ]
+   },
+
+   "spotify": {
+      "clientID": "882069394707079189",
+      "clientSecret": "kUFX0ewdl-X01hADH7T8bNywgTTzfCsN"
+   }
+}
